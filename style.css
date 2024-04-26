@@ -17,11 +17,11 @@
 .light {
   --text-color: black;
   --bg-url: url(./assets/bg-mobile-light.jpg);
-  --surface-color:
-  --stroke-color:
-  --surface-color-hover:
-  --hightlight-color:
-  --switch--bg-url:
+  --surface-color: rgba(0, 0, 0, 0.1);
+  --stroke-color: rgba(0, 0, 0, 0.5);
+  --surface-color-hover: rgba(0, 0, 0, 0.02);
+  --highlight-color: rgba(0, 0, 0, 0.2);
+  --switch--bg-url: url(./assets/flashlight.svg);
 }
 
 body {
